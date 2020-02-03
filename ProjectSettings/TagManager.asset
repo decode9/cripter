@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: score
+    uniqueID: 1657703193
+    locked: 0
+  - name: Floor
+    uniqueID: 4260302265
+    locked: 0
+  - name: Button
+    uniqueID: 2191922631
+    locked: 0
+  - name: Player
+    uniqueID: 2915043899
+    locked: 0
+  - name: bitcoin
+    uniqueID: 3370722221
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3869153401
+    locked: 0
+  - name: Video
+    uniqueID: 3109534573
+    locked: 0

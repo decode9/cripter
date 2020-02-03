@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 262c87f59b72c6d47ac4e1c529d1e057
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cilindro
+    100002: Cilindro.001
+    100004: Cilindro.002
+    100006: Cilindro.003
+    100008: Cilindro.004
+    100010: Cilindro.027
+    100012: //RootNode
+    100014: Cubo
+    100016: Cubo.001
+    100018: Cubo.002
+    100020: Cubo.004
+    100022: Cubo.005
+    100024: Cubo.006
+    100026: Cubo.007
+    100028: Cubo.008
+    100030: Cubo.009
+    100032: Cubo.010
+    100034: Cubo.011
+    100036: Cubo.012
+    100038: Cubo.013
+    100040: Cubo.014
+    100042: Cubo.015
+    100044: Cubo.016
+    100046: Cubo.017
+    100048: Cubo.018
+    100050: Cubo.019
+    100052: Cubo.023
+    100054: Cubo.024
+    400000: Cilindro
+    400002: Cilindro.001
+    400004: Cilindro.002
+    400006: Cilindro.003
+    400008: Cilindro.004
+    400010: Cilindro.027
+    400012: //RootNode
+    400014: Cubo
+    400016: Cubo.001
+    400018: Cubo.002
+    400020: Cubo.004
+    400022: Cubo.005
+    400024: Cubo.006
+    400026: Cubo.007
+    400028: Cubo.008
+    400030: Cubo.009
+    400032: Cubo.010
+    400034: Cubo.011
+    400036: Cubo.012
+    400038: Cubo.013
+    400040: Cubo.014
+    400042: Cubo.015
+    400044: Cubo.016
+    400046: Cubo.017
+    400048: Cubo.018
+    400050: Cubo.019
+    400052: Cubo.023
+    400054: Cubo.024
+    2100000: oro
+    2100002: msi bump lucido2
+    2100004: nero grezzo
+    2100006: Materiale.001
+    2100008: nero lucido
+    2300000: Cilindro
+    2300002: Cilindro.001
+    2300004: Cilindro.002
+    2300006: Cilindro.003
+    2300008: Cilindro.004
+    2300010: Cilindro.027
+    2300012: Cubo
+    2300014: Cubo.001
+    2300016: Cubo.002
+    2300018: Cubo.004
+    2300020: Cubo.005
+    2300022: Cubo.006
+    2300024: Cubo.007
+    2300026: Cubo.008
+    2300028: Cubo.009
+    2300030: Cubo.010
+    2300032: Cubo.011
+    2300034: Cubo.012
+    2300036: Cubo.013
+    2300038: Cubo.014
+    2300040: Cubo.015
+    2300042: Cubo.016
+    2300044: Cubo.017
+    2300046: Cubo.018
+    2300048: Cubo.019
+    2300050: Cubo.023
+    2300052: Cubo.024
+    3300000: Cilindro
+    3300002: Cilindro.001
+    3300004: Cilindro.002
+    3300006: Cilindro.003
+    3300008: Cilindro.004
+    3300010: Cilindro.027
+    3300012: Cubo
+    3300014: Cubo.001
+    3300016: Cubo.002
+    3300018: Cubo.004
+    3300020: Cubo.005
+    3300022: Cubo.006
+    3300024: Cubo.007
+    3300026: Cubo.008
+    3300028: Cubo.009
+    3300030: Cubo.010
+    3300032: Cubo.011
+    3300034: Cubo.012
+    3300036: Cubo.013
+    3300038: Cubo.014
+    3300040: Cubo.015
+    3300042: Cubo.016
+    3300044: Cubo.017
+    3300046: Cubo.018
+    3300048: Cubo.019
+    3300050: Cubo.023
+    3300052: Cubo.024
+    4300000: Cilindro.002
+    4300002: Cilindro.004
+    4300004: Cilindro.027
+    4300006: Cilindro
+    4300008: Cubo.001
+    4300010: Cubo.002
+    4300012: Cubo.006
+    4300014: Cubo.007
+    4300016: Cubo.008
+    4300018: Cubo.009
+    4300020: Cubo.010
+    4300022: Cubo.011
+    4300024: Cubo.012
+    4300026: Cubo.013
+    4300028: Cubo.014
+    4300030: Cubo.015
+    4300032: Cubo.016
+    4300034: Cubo.017
+    4300036: Cubo.018
+    4300038: Cubo.019
+    4300040: Cubo
+    4300042: Cubo.004
+    4300044: Cubo.005
+    4300046: Cubo.023
+    4300048: Cubo.024
+    4300050: Cilindro.001
+    4300052: Cilindro.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
